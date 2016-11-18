@@ -1,0 +1,6 @@
+/core/
+/makefile
+/sources.mk
+/state_machine/
+/subdir.mk
+/objects.mk
