@@ -41,5 +41,20 @@
 			<type>2</type>
 			<location>/home/christoph/Programme/eclipse/arduinoPlugin/packages/esp8266/hardware/esp8266/2.2.0/variants/nodemcu</location>
 		</link>
+		<link>
+			<name>libraries/EEPROM</name>
+			<type>2</type>
+			<location>/home/christoph/Programme/eclipse/arduinoPlugin/packages/esp8266/hardware/esp8266/2.2.0/libraries/EEPROM</location>
+		</link>
+		<link>
+			<name>libraries/ESP8266WiFi</name>
+			<type>2</type>
+			<location>/home/christoph/Programme/eclipse/arduinoPlugin/packages/esp8266/hardware/esp8266/2.2.0/libraries/ESP8266WiFi</location>
+		</link>
+		<link>
+			<name>libraries/FastLED-master</name>
+			<type>2</type>
+			<location>/home/christoph/Arduino/libraries/FastLED-master</location>
+		</link>
 	</linkedResources>
 </projectDescription>

@@ -29,6 +29,9 @@
  /home/christoph/Programme/eclipse/arduinoPlugin/packages/esp8266/hardware/esp8266/2.2.0/cores/esp8266/debug.h \
  /home/christoph/Programme/eclipse/arduinoPlugin/packages/esp8266/hardware/esp8266/2.2.0/variants/nodemcu/pins_arduino.h \
  /home/christoph/Programme/eclipse/arduinoPlugin/packages/esp8266/hardware/esp8266/2.2.0/variants/nodemcu/../generic/common.h \
+ ../statemachine/StateMachine.h \
+ /home/christoph/Programme/eclipse/arduinoPlugin/packages/esp8266/hardware/esp8266/2.2.0/libraries/EEPROM/EEPROM.h \
+ /home/christoph/Programme/eclipse/arduinoPlugin/packages/esp8266/hardware/esp8266/2.2.0/cores/esp8266/FS.h \
  ../main.ino
 
 /home/christoph/Programme/eclipse/arduinoPlugin/packages/esp8266/hardware/esp8266/2.2.0/cores/esp8266/Arduino.h:
@@ -90,5 +93,11 @@
 /home/christoph/Programme/eclipse/arduinoPlugin/packages/esp8266/hardware/esp8266/2.2.0/variants/nodemcu/pins_arduino.h:
 
 /home/christoph/Programme/eclipse/arduinoPlugin/packages/esp8266/hardware/esp8266/2.2.0/variants/nodemcu/../generic/common.h:
+
+../statemachine/StateMachine.h:
+
+/home/christoph/Programme/eclipse/arduinoPlugin/packages/esp8266/hardware/esp8266/2.2.0/libraries/EEPROM/EEPROM.h:
+
+/home/christoph/Programme/eclipse/arduinoPlugin/packages/esp8266/hardware/esp8266/2.2.0/cores/esp8266/FS.h:
 
 ../main.ino:

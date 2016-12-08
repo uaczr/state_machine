@@ -4,3 +4,8 @@
 /state_machine/
 /subdir.mk
 /objects.mk
+/statemachine/
+/job/
+/libraries/
+/misc/
+/modules/
